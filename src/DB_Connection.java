@@ -10,7 +10,7 @@ public class DB_Connection {
             Connection c = DriverManager.getConnection(url, user, pass);
             Statement s = c.createStatement();
 
-            s.executeUpdate("update b6c set sname = 'Sovichea' where id = 0");
+//            s.executeUpdate("update b6c set sname = 'Sovichea' where id = 0");
 //            for (int i = 1; i < 6; i++){
 //                s.executeUpdate("delete from b6c where id = " + i);
 //            }

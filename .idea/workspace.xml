@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DB_Operation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TimeZone.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Connection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/DB_Connection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Operation.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/DB_Operation.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Task1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/Task1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB_Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB_Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB_Operation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -87,6 +89,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="DB_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DB_Operation" />
+      <module name="Web_Apps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Database_DTO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Database_DTO" />
       <module name="Web_Apps" />
@@ -111,9 +120,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Task1" />
+        <item itemvalue="Application.DB_Operation" />
+        <item itemvalue="Application.DB_Connection" />
         <item itemvalue="Application.TimeZone" />
         <item itemvalue="Application.Database_DTO" />
-        <item itemvalue="Application.DB_Connection" />
       </list>
     </recent_temporary>
   </component>
@@ -140,7 +150,9 @@
       <workItem from="1574268294132" duration="5807000" />
       <workItem from="1574299893823" duration="4999000" />
       <workItem from="1574341203295" duration="1872000" />
-      <workItem from="1574389494273" duration="5912000" />
+      <workItem from="1574389494273" duration="8455000" />
+      <workItem from="1574477526487" duration="4936000" />
+      <workItem from="1574687831629" duration="59000" />
     </task>
     <servers />
   </component>

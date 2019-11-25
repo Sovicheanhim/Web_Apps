@@ -1,7 +1,4 @@
-import java.sql.Connection;
-import java.sql.DriverManager;
-import java.sql.SQLException;
-import java.sql.Statement;
+import java.sql.*;
 import java.util.Scanner;
 
 public class DB_Operation {
@@ -13,7 +10,7 @@ public class DB_Operation {
             c = DriverManager.getConnection("jdbc:mysql://localhost:3306/kit", "root", "");
             st = c.createStatement();
     }
-    public void insertRecord(B6C[] records) {
+    public void insertRecords(B6C[] records) {
         try {
             getStatement();
             for(B6C record: records){
@@ -23,4 +20,19 @@ public class DB_Operation {
             e.printStackTrace();
         }
     }
+    public B6C readRecord(String searchingId){
+        B6C data = new B6C();
+        try {
+            getStatement();
+            ResultSet record = st.executeQuery("select * from b6c where id = '"+searchingId+"'");
+            while(record.next()){
+                data.setId(record.getString("id"));
+                data.setSname(record.getString("sname"));
+            }
+        } catch (SQLException | ClassNotFoundException e) {
+            e.printStackTrace();
+        }
+        return data;
+    }
+
 }
