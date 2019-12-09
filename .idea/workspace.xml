@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Building_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Factory_Design_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB_Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB_Transaction.java" afterDir="false" />
-    </list>
+    <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -159,6 +150,7 @@
       <workItem from="1574835800252" duration="30000" />
       <workItem from="1575560151136" duration="5058000" />
       <workItem from="1575704389862" duration="1047000" />
+      <workItem from="1575894138660" duration="289000" />
     </task>
     <servers />
   </component>
