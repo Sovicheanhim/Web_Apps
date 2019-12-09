@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/DB_Transaction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Building_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Factory_Design_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Task3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/PreparedStatement.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/PreparedStatement.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Section_C.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/Section_C.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Section_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB_Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/DB_Transaction.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +63,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="D:/Drivers/mysql-connector-java-8.0.18/mysql-connector-java-8.0.18.jar!/" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -79,14 +82,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DB_Transaction">
-    <configuration name="DB_Operation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DB_Operation" />
-      <module name="Web_Apps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Task3">
     <configuration name="DB_Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DB_Transaction" />
       <module name="Web_Apps" />
@@ -115,13 +111,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Task3" />
+      <module name="Web_Apps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task3" />
         <item itemvalue="Application.DB_Transaction" />
         <item itemvalue="Application.Section_C" />
         <item itemvalue="Application.PreparedStatement" />
         <item itemvalue="Application.Task1" />
-        <item itemvalue="Application.DB_Operation" />
       </list>
     </recent_temporary>
   </component>
@@ -152,7 +155,10 @@
       <workItem from="1574477526487" duration="4936000" />
       <workItem from="1574687831629" duration="619000" />
       <workItem from="1574739710262" duration="6691000" />
-      <workItem from="1574822926823" duration="2725000" />
+      <workItem from="1574822926823" duration="3412000" />
+      <workItem from="1574835800252" duration="30000" />
+      <workItem from="1575560151136" duration="5058000" />
+      <workItem from="1575704389862" duration="1047000" />
     </task>
     <servers />
   </component>

@@ -18,10 +18,6 @@ public class DB_Transaction {
             c = DriverManager.getConnection("jdbc:mysql://localhost:3306/kit", "root", "");
             st = c.createStatement();
             c.setAutoCommit(false);
-//            st.execute("create table bank( id integer (10), name varchar(50), amt integer(20))");
-//            st.execute("insert into bank values(100, 'Hanabi', '1000')");
-//            st.execute("insert into bank values(101, 'Kimmy', '1000')");
-//            st.execute("insert into bank values(102, 'Karrie', '1000')");
             System.out.println("Enter the id you want to debit: ");
             debId = s.nextInt();
             System.out.println("Enter the amount you want to transfer: ");
