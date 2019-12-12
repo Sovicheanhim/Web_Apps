@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="" />
+    <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Adapter_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Command_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -150,7 +154,8 @@
       <workItem from="1574835800252" duration="30000" />
       <workItem from="1575560151136" duration="5058000" />
       <workItem from="1575704389862" duration="1047000" />
-      <workItem from="1575894138660" duration="289000" />
+      <workItem from="1575894138660" duration="1162000" />
+      <workItem from="1576033100958" duration="6613000" />
     </task>
     <servers />
   </component>
@@ -169,5 +174,19 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Command_Pattern.java</url>
+          <line>24</line>
+          <properties class="LightOffCommand" method="&lt;init&gt;">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
