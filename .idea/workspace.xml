@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Adapter_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Command_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Composite_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Adapter_Pattern.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +78,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Task3">
+  <component name="RunManager" selected="Application.Adapter_Pattern">
+    <configuration name="Adapter_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Adapter_Pattern" />
+      <module name="Web_Apps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="DB_Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DB_Transaction" />
       <module name="Web_Apps" />
@@ -99,13 +107,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task1" />
-      <module name="Web_Apps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Task3" />
       <module name="Web_Apps" />
@@ -115,11 +116,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Adapter_Pattern" />
         <item itemvalue="Application.Task3" />
         <item itemvalue="Application.DB_Transaction" />
         <item itemvalue="Application.Section_C" />
         <item itemvalue="Application.PreparedStatement" />
-        <item itemvalue="Application.Task1" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,9 @@
       <workItem from="1575560151136" duration="5058000" />
       <workItem from="1575704389862" duration="1047000" />
       <workItem from="1575894138660" duration="1162000" />
-      <workItem from="1576033100958" duration="6613000" />
+      <workItem from="1576033100958" duration="7288000" />
+      <workItem from="1576203050817" duration="5597000" />
+      <workItem from="1576476279506" duration="285000" />
     </task>
     <servers />
   </component>
@@ -174,19 +177,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Command_Pattern.java</url>
-          <line>24</line>
-          <properties class="LightOffCommand" method="&lt;init&gt;">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
