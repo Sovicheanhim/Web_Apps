@@ -1,37 +1,41 @@
 interface Command{
-    void execute();
+    public void execute();
 }
 class Light{
     public void on(){
-        System.out.println("Light is on");
+        System.out.println("The light is on");
     }
     public void off(){
-        System.out.println("Light is off");
+        System.out.println("The light is off");
     }
+
 }
-class LightOnCommand implements Command{
+
+class commandLightOn implements Command{
     Light light;
-    public LightOnCommand(Light light){
+    public commandLightOn(Light light){
         this.light = light;
     }
-    public void execute()
-    {
+    public void execute(){
         light.on();
     }
+
 }
-class LightOffCommand implements Command
-{
+
+class commandLightOff implements Command{
+
     Light light;
-    public LightOffCommand(Light light){
+    public commandLightOff(Light light){
         this.light = light;
     }
-    public void execute()
-    {
+    public void execute(){
         light.off();
     }
 }
+
 class SimpleRemoteControl{
     Command command;
+
     public void setCommand(Command command){
         this.command = command;
     }
@@ -39,13 +43,16 @@ class SimpleRemoteControl{
         command.execute();
     }
 }
-public class Command_Pattern {
+
+class Command_Pattern{
     public static void main(String[] args) {
         SimpleRemoteControl remote = new SimpleRemoteControl();
         Light light = new Light();
-        remote.setCommand(new LightOnCommand(light));
+
+        remote.setCommand(new commandLightOff(light));
         remote.buttonWasPressed();
-        remote.setCommand(new LightOffCommand(light));
+
+        remote.setCommand(new commandLightOn(light));
         remote.buttonWasPressed();
     }
 }
