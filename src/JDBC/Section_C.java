@@ -1,3 +1,5 @@
+package JDBC;
+
 import java.sql.*;
 import java.sql.PreparedStatement;
 
@@ -39,7 +41,7 @@ public class Section_C {
                     "Yeoh Soon Keat"};
             Class.forName("com.mysql.cj.jdbc.Driver");
             Connection c = DriverManager.getConnection("jdbc:mysql://localhost:3306/kit","root", "");
-//            PreparedStatement ps = c.prepareStatement("delete from sectionC");
+//            JDBC.PreparedStatement ps = c.prepareStatement("delete from sectionC");
             PreparedStatement ps = c.prepareStatement("insert into sectionC values(?,?)");
             for(int i = 0; i < names.length -1 ; i++){
                 ps.setString(1, String.valueOf(i+1101801079));

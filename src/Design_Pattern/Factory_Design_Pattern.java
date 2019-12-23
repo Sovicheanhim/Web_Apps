@@ -1,3 +1,5 @@
+package Design_Pattern;
+
 import java.util.Scanner;
 
 public class Factory_Design_Pattern {
@@ -31,13 +33,13 @@ class CarFactory{
 
 class Audi implements Cars{
     public void printInfo(){
-        System.out.println("Audi");
+        System.out.println("Design_Pattern.Audi");
     }
 }
 
 class Tesla implements Cars{
     public void printInfo(){
-        System.out.println("Tesla...");
+        System.out.println("Design_Pattern.Tesla...");
     }
 }
 

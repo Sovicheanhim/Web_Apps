@@ -1,3 +1,5 @@
+package Design_Pattern;
+
 public class Singleton {
     public static void main(String[] args) {
         SingletonClass obj = SingletonClass.getInstance();

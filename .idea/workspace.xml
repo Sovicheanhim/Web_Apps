@@ -2,14 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorative_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Mediator_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Proxy_Pattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Template_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Adapter_Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/Adapter_Pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Command_Pattern.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/Command_Pattern.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Light.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/Light.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/LightOffCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/LightOnCommand.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/SimpleRemoteControl.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Web_Apps/SimpleRemoteControl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Command_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Command_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Adapter_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Adapter_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/B6C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/B6C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Building_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Building_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Command_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Command_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Composite_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Composite_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB_Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/DB_Connection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/DB_Operation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/DB_Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/DB_Transaction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Database_DTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/Database_DTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Factory_Design_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Factory_Design_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PreparedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/PreparedStatement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Section_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/Section_C.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Singleton.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Strategy_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Template_Pattern.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +76,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -82,37 +95,37 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Strategy_Pattern">
+  <component name="RunManager" selected="Application.Decorative_Pattern">
     <configuration name="Adapter_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Adapter_Pattern" />
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Adapter_Pattern" />
       <module name="Web_Apps" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Command_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Command_Pattern" />
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Command_Pattern" />
       <module name="Web_Apps" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DB_Transaction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="DB_Transaction" />
+    <configuration name="Decorative_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Decorative_Pattern" />
       <module name="Web_Apps" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Strategy_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Strategy_Pattern" />
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Strategy_Pattern" />
       <module name="Web_Apps" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Task3" />
+    <configuration name="Template_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Template_Pattern" />
       <module name="Web_Apps" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -120,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Decorative_Pattern" />
+        <item itemvalue="Application.Template_Pattern" />
         <item itemvalue="Application.Strategy_Pattern" />
         <item itemvalue="Application.Command_Pattern" />
         <item itemvalue="Application.Adapter_Pattern" />
-        <item itemvalue="Application.Task3" />
-        <item itemvalue="Application.DB_Transaction" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +176,9 @@
       <workItem from="1576033100958" duration="7288000" />
       <workItem from="1576203050817" duration="5597000" />
       <workItem from="1576476279506" duration="4971000" />
+      <workItem from="1576640907600" duration="1944000" />
+      <workItem from="1576736235955" duration="7044000" />
+      <workItem from="1577015638977" duration="12000" />
     </task>
     <servers />
   </component>

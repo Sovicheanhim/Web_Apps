@@ -1,3 +1,5 @@
+package JDBC;
+
 public class B6C {
     private String id;
     private String sname;

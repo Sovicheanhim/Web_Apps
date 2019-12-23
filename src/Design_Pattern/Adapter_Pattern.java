@@ -1,4 +1,4 @@
-import com.sun.org.apache.xpath.internal.operations.And;
+package Design_Pattern;
 
 interface Earphone{
     void listen();
@@ -9,7 +9,7 @@ interface Airpod{
 class Android implements Earphone{
     @Override
     public void listen() {
-        System.out.println("Listening on Android device");
+        System.out.println("Listening on Design_Pattern.Android device");
     }
 }
 class Earphone_connector implements Earphone
@@ -27,7 +27,7 @@ class Earphone_connector implements Earphone
 class Iphone implements Airpod{
     @Override
     public void listen() {
-        System.out.println("Listening on Iphone device");
+        System.out.println("Listening on Design_Pattern.Iphone device");
     }
 }
 public class Adapter_Pattern {

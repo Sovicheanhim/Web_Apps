@@ -1,3 +1,5 @@
+package Design_Pattern;
+
 interface strategy{
     public int doOperation(int a, int b);
 }

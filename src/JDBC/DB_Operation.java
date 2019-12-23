@@ -1,3 +1,7 @@
+package JDBC;
+
+import JDBC.B6C;
+
 import java.sql.*;
 import java.sql.PreparedStatement;
 import java.util.Scanner;
