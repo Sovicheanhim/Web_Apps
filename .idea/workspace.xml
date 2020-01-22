@@ -2,27 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4dfbca3-9438-4717-8bfe-4c78830e61ed" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Decorative_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Mediator_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Proxy_Pattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Design_Pattern/Template_Pattern.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Adapter_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Adapter_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/B6C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/B6C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Building_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Building_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Command_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Command_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Composite_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Composite_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB_Connection.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/DB_Connection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB_Operation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/DB_Operation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/DB_Transaction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/DB_Transaction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Database_DTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/Database_DTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Factory_Design_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Factory_Design_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PreparedStatement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/PreparedStatement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Section_C.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/Section_C.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Singleton.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Singleton.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Strategy_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Strategy_Pattern.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Task1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Template_Pattern.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Adapter_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Airpod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Android.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Audi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/B6C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Building_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Car$CarBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Car.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/CarFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Car_Decorative.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Cars.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Command.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Command_Mediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Command_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Composite_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/ConcreteHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/CyberTruck.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Connection.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Operation.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/DB_Transaction.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Database_DTO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Decorative_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Earphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Earphone_connector.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Factory_Design_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Flight.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/House.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/IATCMediator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Iphone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Light.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Mediator_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/PreparedStatement.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Runway.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Section_C.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/SimpleRemoteControl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/SimpleTesla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/SingletonClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Strategy_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Task1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Task2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Task3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Template_Pattern.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/Tesla.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/TeslaAutoPilot.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/TeslaBlue.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/TeslaDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/WoodenHouse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/commandLightOff.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/commandLightOn.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/context.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/doOperationAdd.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/doOperationMultiply.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/doOperationSubstract.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Web_Apps/strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Pattern/Composite_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Composite_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Design_Pattern/Mediator_Pattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Design_Pattern/Mediator_Pattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/Task1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/Task1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/JDBC/Task2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/JDBC/Task2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,12 +115,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Python" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -95,17 +135,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Decorative_Pattern">
-    <configuration name="Adapter_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Adapter_Pattern" />
+  <component name="RunManager" selected="Application.Composite_Pattern">
+    <configuration name="Composite_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Composite_Pattern" />
       <module name="Web_Apps" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Command_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Command_Pattern" />
-      <module name="Web_Apps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -113,6 +152,19 @@
     <configuration name="Decorative_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Design_Pattern.Decorative_Pattern" />
       <module name="Web_Apps" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Mediator_Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Design_Pattern.Mediator_Pattern" />
+      <module name="Web_Apps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Design_Pattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,11 +185,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Composite_Pattern" />
+        <item itemvalue="Application.Mediator_Pattern" />
         <item itemvalue="Application.Decorative_Pattern" />
         <item itemvalue="Application.Template_Pattern" />
         <item itemvalue="Application.Strategy_Pattern" />
-        <item itemvalue="Application.Command_Pattern" />
-        <item itemvalue="Application.Adapter_Pattern" />
       </list>
     </recent_temporary>
   </component>
@@ -179,6 +231,10 @@
       <workItem from="1576640907600" duration="1944000" />
       <workItem from="1576736235955" duration="7044000" />
       <workItem from="1577015638977" duration="12000" />
+      <workItem from="1577110258088" duration="6509000" />
+      <workItem from="1577534148788" duration="49000" />
+      <workItem from="1577947180318" duration="1724000" />
+      <workItem from="1579706005892" duration="1495000" />
     </task>
     <servers />
   </component>

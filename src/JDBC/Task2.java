@@ -12,7 +12,7 @@ public class Task2 {
             Statement s = c.createStatement();
 //            readAll
 //            ResultSet rs = s.executeQuery("SELECT * FROM b6c");
-//            read a singTle value
+//            read a single value
 //            ResultSet rs = s.executeQuery("SELECT * FROM b6c WHERE id = '01'");
 //            read a specific record
             System.out.println("Enter the id that you want to search ");
